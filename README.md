@@ -1,10 +1,10 @@
-# Website Indexing Script Documentation
+# Indexa - Website Indexing Script Documentation
 
 This documentation provides an overview of the Python script used to submit URLs to search engines and indexing sites for website indexing.
 
 ## Overview
 
-The `submit_to_search_engines.py` script reads URLs from a text file and submits them to popular search engines and indexing sites. It sends HTTP requests to notify these platforms about the existence of your URLs and helps improve their discoverability in search results.
+The `indexa.py` script reads URLs from a text file and submits them to popular search engines and indexing sites. It sends HTTP requests to notify these platforms about the existence of your URLs and helps improve their discoverability in search results.
 
 ## Prerequisites
 
