@@ -36,4 +36,3 @@ The report contains the following columns:
 Submitting URLs to search engines and indexing sites does not guarantee immediate indexing or improved search rankings. The effectiveness of this script may vary, and it's recommended to employ other SEO techniques in addition to URL submission for better results.
 
 ---
-
